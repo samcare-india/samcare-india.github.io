@@ -1,1 +1,1 @@
-# samcare-india.github.io
+# samcare-india
