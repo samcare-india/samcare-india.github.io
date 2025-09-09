@@ -1186,13 +1186,13 @@ p {
 }
 
 .floating-phone {
-    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
 }
 
 .floating-phone:hover {
-    background: linear-gradient(135deg, #059669 0%, #047857 100%);
+    background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
     transform: scale(1.1);
-    box-shadow: 0 6px 25px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 6px 25px rgba(37, 99, 235, 0.4);
 }
 
 .floating-whatsapp {
