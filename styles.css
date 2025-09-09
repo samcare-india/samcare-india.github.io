@@ -1060,6 +1060,9 @@ p {
     .hero {
         padding: 2rem 0;
         text-align: center;
+        min-height: 80vh;
+        align-items: flex-start;
+        padding-top: 6rem;
     }
 
     .hero-title {
@@ -1127,9 +1130,15 @@ p {
     .container {
         padding: 0 15px;
     }
+    
+    .hero {
+        min-height: 70vh;
+        padding-top: 5rem;
+    }
 
     .hero-title {
         font-size: 2rem;
+        margin-bottom: 1rem;
     }
 
     .hero-subtitle {
