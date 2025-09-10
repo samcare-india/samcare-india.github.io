@@ -45,13 +45,6 @@ This is why we are the choice for telcos, ISPs, enterprises, real estate develop
 - **Font Awesome**: Professional icons
 - **Google Fonts**: Inter font family for modern typography
 
-## � Contact Information
-
-- **Phone**: +91 9212605204 (24/7 Support)
-- **Email**: monif@samcare.in
-- **Website**: [www.samcare.in](http://www.samcare.in)
-- **Service Coverage**: Professional service network
-
 ## 🏢 Business Philosophy
 
 We hold tight to a philosophy of "Customer Satisfaction and Customer Services", with a clear vision to provide the best quality & cost-effective products with the best, prompt & efficient services.
