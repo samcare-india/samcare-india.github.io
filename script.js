@@ -247,7 +247,7 @@ ${data.message}
 
 Please schedule my service at your earliest convenience. Thank you! 🙏`);
 
-        const whatsappLink = `https://wa.me/919212605204?text=${message}`;
+        const whatsappLink = `https://wa.me/917320924551?text=${message}`;
         window.open(whatsappLink, '_blank');
         
         showNotification('Opening WhatsApp...', 'success');
